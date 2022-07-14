@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\bin\Debug\HMProje.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\bin\Debug\HMProje.exe
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\bin\Debug\HMProje.pdb
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.exe
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.pdb
+C:\Users\mehme\OneDrive\Masaüstü\HMProjeC#\HMProje\HMProje\obj\Debug\HMProje.Form1.resources
